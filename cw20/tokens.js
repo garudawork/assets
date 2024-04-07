@@ -1834,6 +1834,14 @@ module.exports = {
       icon: "https://i.ibb.co/sQbf4xq/MBA-token-128.png",
       decimals: 6,
     },
+    terra1w6nns79ckrpmj8pue3ydatjggnfvw33vgse9pyp28payslxs8ahqj6ytqt: {
+      protocol : "Death Coin",
+      name: "Death Coin",
+      symbol: "DTH",
+      token: "terra1w6nns79ckrpmj8pue3ydatjggnfvw33vgse9pyp28payslxs8ahqj6ytqt",
+      icon: "https://i.ibb.co/QYM2k7h/CC-20231103-223645.png",
+      decimals: 6,
+    },
   },
   testnet: {
     terra1ss9zz4873vk4dd8dvua0vm83m6s8k7ctwp9efac0arytn6jthfgsy2d4a9: {
